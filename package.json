@@ -12,9 +12,9 @@
     "reporter"
   ],
   "author": "Perfect Oatmeal <info@perfectoatmeal.com> (http://perfectoatmeal.com/)",
-	"contributors": [
-		{"name": "Evelyn Straigt", "email": "evelyn@perfectoatmeal.com"}
-	],
+  "contributors": [
+    {"name": "Evelyn Straigt", "email": "evelyn@perfectoatmeal.com"}
+  ],
   "license": "",
   "bugs": {
     "url": "https://github.com/perfectOatmeal/oat-reporter/issues"
