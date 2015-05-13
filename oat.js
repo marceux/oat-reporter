@@ -21,10 +21,10 @@ exports = module.exports = Oat;
 
 function Oat( runner ) {
 
-var self = this,
-	stats = this.stats,
-	indents = 0,
-	n = 0;
+	var self = this,
+		stats = this.stats,
+		indents = 0,
+		n = 0;
 
 	runner.on( "start", function(){
 		console.log();
