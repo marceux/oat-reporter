@@ -1,7 +1,7 @@
 {
   "name": "oat-reporter",
-  "version": "0.0.1",
-  "description": "0.0.1",
+  "version": "1.0.0",
+  "description": "A custom Mocha reporter for Perfect Oatmeal.",
   "main": "oat.js",
   "repository": {
     "type": "git",
