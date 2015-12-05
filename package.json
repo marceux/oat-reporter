@@ -15,7 +15,7 @@
   "contributors": [
     {"name": "Evelyn Straigt", "email": "evelyn@perfectoatmeal.com"}
   ],
-  "license": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/perfectOatmeal/oat-reporter/issues"
   },
