@@ -1,11 +1,11 @@
 {
   "name": "oat-reporter",
   "version": "1.0.0",
-  "description": "A custom Mocha reporter for Perfect Oatmeal.",
+  "description": "A custom Mocha reporter.",
   "main": "oat.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/perfectOatmeal/oat-reporter.git"
+    "url": "https://github.com/marceux/oat-reporter.git"
   },
   "keywords": [
     "Mocha",
@@ -13,15 +13,17 @@
   ],
   "author": "Perfect Oatmeal <info@perfectoatmeal.com> (http://perfectoatmeal.com/)",
   "contributors": [
-    {"name": "Evelyn Straigt", "email": "evelyn@perfectoatmeal.com"}
+    {
+      "name": "Marco Salazar de Leon",
+      "email": "msalazardeleon@gmail.com"
+    }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perfectOatmeal/oat-reporter/issues"
+    "url": "https://github.com/marceux/oat-reporter/issues"
   },
-  "homepage": "https://github.com/perfectOatmeal/oat-reporter",
+  "homepage": "https://github.com/marceux/oat-reporter",
   "dependencies": {
-    "chalk": "0.5.1",
-    "gulp-util": "3.0.2"
+    "mocha": "^2.5.3"
   }
 }
